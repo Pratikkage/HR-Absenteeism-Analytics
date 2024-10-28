@@ -2,6 +2,9 @@
 
 The **HR Absenteeism Analysis** project aims to uncover key insights into employee absenteeism patterns, focusing on understanding and addressing factors influencing absentee rates. Through an in-depth analysis of age, gender, service duration, and location demographics, this project identifies the trends and key factors affecting absenteeism across various groups. The insights gathered will not only highlight areas for productivity improvement but also support employee well-being by pinpointing potential workplace issues. Ultimately, these findings provide actionable recommendations to help reduce absenteeism and foster a more engaged, healthy workforce.
 
+## Dashboard preview 
+![Dashboard Preview](https://github.com/Pratikkage/HR-Absenteeism-Analytics/blob/main/Images/Screenshot%202024-10-28%20104750.jpg)
+
 ## 💡 Key Features
 
 - **Demographic Analysis**: In-depth exploration of absenteeism trends based on age, gender, service duration, and location.
@@ -23,5 +26,3 @@ The **HR Absenteeism Analysis** project aims to uncover key insights into employ
 - **Microsoft Power BI**: For creating interactive dashboards.
 - **Microsoft PowerPoint**: For presenting the analysis and insights.
 
-## Dashboard preview 
-![Dashboard Preview](https://github.com/Pratikkage/HR-Absenteeism-Analytics/blob/main/Images/Screenshot%202024-10-28%20104750.jpg)
